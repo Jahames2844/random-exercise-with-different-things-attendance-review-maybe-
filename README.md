@@ -1,1 +1,3 @@
 # random-exercise-with-different-things-attendance-review-maybe-
+
+the code is correct somehow
